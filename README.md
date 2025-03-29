@@ -1,4 +1,4 @@
-<h2 align="left">Hey there👋 My name is Eche_codes and I'm a Software Developer, from ....</h2>
+<h2 align="left">Hi there👋 My name is Eche_codes and I'm a Software Developer, from ....</h2>
 
 ###
 
