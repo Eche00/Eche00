@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eche00&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eche00&layout=compact&theme=github_dark&hide_border=true" width="45%" />
 </p>
 
 ---
@@ -41,5 +41,7 @@
 
 <!-- Optional animated GIF or message -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+<!--   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="200" />
+  
 </p>
