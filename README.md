@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Eche_codes</h1>
 
 <p align="center">
-  A passionate <strong>Software Developer (web2/web3)</strong> with a love for clean code, creative solutions, and building meaningful products.
+  A passionate <strong>Software Developer web2 || web3</strong> with a love for clean code, creative solutions, and building meaningful products.
 </p>
 
 ---
