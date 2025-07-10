@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Eche_codes</h1>
+<h1 align="center">Hello there 👋, I'm Eche_codes</h1>
 
 <p align="center">
   A passionate <strong>Software Engineer(React ~ JS ~ TS) web2 || web3</strong> with a love for clean code, creative solutions, and building meaningful products.
