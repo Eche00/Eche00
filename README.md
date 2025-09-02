@@ -1,7 +1,7 @@
-<h1 align="center">Hello there👋, I'm <strong>Eche_codes</strong> </h1>
+<h1 align="center">Hey there👋, I'm <strong>Eche_codes</strong> </h1>
 
 <p align="center">
-  A passionate <strong>Software Engineer(React/NextJs ~ JS ~ TS) web2 || web3</strong> with a love for clean code, creative solutions, and building meaningful products.
+  An Experienced <strong>Software Engineer(React/NextJs ~ JS ~ TS) web2 || web3</strong> with a love for clean code, creative solutions, and building meaningful products.
 </p>
 
 ---
