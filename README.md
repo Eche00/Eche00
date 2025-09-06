@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eche00&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eze-echezonachukwu-3755ba283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
