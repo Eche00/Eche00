@@ -23,11 +23,8 @@
 ###  GitHub Stats
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Eche00&theme=black-ice" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eche00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-
-</p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eche00&theme=github"
+        </p
 
 ---
 
